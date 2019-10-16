@@ -58,4 +58,8 @@ SessionEndedRequest is sent within the event to the Lambda function when the ses
 
 7) Copy paste the code given. Be sure to have existing Beam and Azure subscribtions.
 
+# Important
+
+This is not my full implementation for Alexa skills, but a part of code for what I built for Microland. Please get in touch through my email for further information.
+
 

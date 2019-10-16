@@ -1,4 +1,5 @@
-# Build-Alexa-Skills
+# Build-Alexa-Skills for Alexa to talk about Azure resources in your connected subscription
+
 This repo talks about building a custom Alexa skill which in integrated with cloud tools.
 I have created this overview to walk those new to voice development through the process of making an Alexa skill. No coding experience is required for this, and we think experts and novices alike will succeed in building their first skill by following this tutorial.
 
@@ -60,6 +61,6 @@ SessionEndedRequest is sent within the event to the Lambda function when the ses
 
 # Important
 
-This is not my full implementation for Alexa skills, but a part of code for what I built for Microland. Please get in touch through my email for further information.
+This is not my full implementation for Alexa skills, but a part of code for what I built. I extended this to connect with muiltiple platforms and gather information to enhance customer experience. Please get in touch through email for further information.
 
 

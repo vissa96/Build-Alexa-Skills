@@ -56,4 +56,6 @@ SessionEndedRequest is sent within the event to the Lambda function when the ses
 
 6) Select the “Alexa Skills Kit” in the “Add triggers” list.
 
-7) Copy paste the code given. Be sure to have existing Beam and Azure subscribtions. 
+7) Copy paste the code given. Be sure to have existing Beam and Azure subscribtions.
+
+

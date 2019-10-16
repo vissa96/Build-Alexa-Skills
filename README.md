@@ -1,9 +1,9 @@
 # Build-Alexa-Skills for Alexa to talk about Azure resources in your connected subscription
 
-This repo talks about building a custom Alexa skill which in integrated with cloud tools.
-I have created this overview to walk those new to voice development through the process of making an Alexa skill. No coding experience is required for this, and we think experts and novices alike will succeed in building their first skill by following this tutorial.
+This repo talks about building a custom Alexa skill which is integrated with cloud tools. I have created this overview to walk those new to voice development through the process of making an Alexa skill.
 
 # Steps
+
 1) The skill interface is implemented within the Amazon Alexa developers platform. This means that you’ll need an Amazon Developers Services (ADS) account in order to build the skill and its interaction model.
 
 2) Sign in to your ADS account and choose Alexa.
